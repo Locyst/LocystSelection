@@ -1,4 +1,4 @@
-# LocystSelection Library
+# LocystSelection
 
 LocystSelection is a Python library that provides a flexible selection interface for multiple choices with pagination. It allows users to create selection menus with customizable options and associated functions, making it easy to implement interactive selection processes in Python applications.
 
