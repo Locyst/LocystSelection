@@ -69,7 +69,6 @@ The `Selection` class supports the following configurations:
 - `selections`: A dictionary containing the options available for selection, where the keys are the option names and the values are the associated functions.
 - `unselect`: Optional parameter to specify the symbol for unselected options (default is '○').
 - `select`: Optional parameter to specify the symbol for selected options (default is '●').
-- `questions_per_page`: Optional parameter to specify the number of questions to display per page in the selection menu (default is 5).
 
 ## To-do
 
